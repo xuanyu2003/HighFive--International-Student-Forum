@@ -4,6 +4,8 @@
 ## 📖 Overview
 HighFive! is a social platform designed for international students, providing a space to connect, share experiences, and seek advice. Users can sign up, log in, recover passwords, browse and create posts, save favorites, and engage in meaningful discussions through comments.
 
+<img width="1290" height="1291" alt="HighFive!-Cover" src="https://github.com/user-attachments/assets/fdb5e770-22fc-4211-bd1d-1833d07c9515" />
+
 ## ⚡ Technologies
 - `HTML`
 - `NodeJs`
@@ -71,6 +73,7 @@ To run the project in your local environment, follow these steps:
 
 ## 🎥 Presentation
 [Presentation_HighFive!.pdf](https://github.com/user-attachments/files/18621899/Presentation_HighFive.pdf)
+
 
 
 
